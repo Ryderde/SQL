@@ -1,0 +1,5 @@
+Notes About Pymsql
+
+
+cursor.execute comes 1st b4 you fetch the resulst
+
